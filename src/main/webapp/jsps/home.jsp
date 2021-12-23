@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance. This is class 26.
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. He is the author and finisher of our faith.We will survive. Testing to see which is connected. </h2>
+	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. He is the author and finisher of our faith.We will survive. ok.Testing to see which is connected. </h2>
 <hr>
 <div style="text-align: center;">
 	<span>
